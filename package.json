@@ -1,0 +1,29 @@
+{
+  "name": "day-now",
+  "version": "1.0.3",
+  "description": "Day-now gets current month,day,year and displays them based on some filters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "npm-day-now",
+    "day-now",
+    "date",
+    "now",
+    "calendar",
+    "month",
+    "day",
+    "year",
+    "today"
+  ],
+  "author": "Konstantinos Bolotis",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/KwstasBol/day-now",
+  "devDependencies": {
+    "nyc": "^11.6.0",
+    "standard": "^11.0.1",
+    "tap": "^11.1.3"
+  }
+}
